@@ -53,3 +53,7 @@ a:active{
 img {
     margin: 0 25% 0 25%;
 }
+
+#body_seguranca {
+    zoom: 0.5;
+}
