@@ -1,0 +1,54 @@
+body {
+    width: 100%;
+    height: 100%;
+    background-color: green;
+}
+
+main {
+    width: 100%;
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 200px;
+    margin: 20% 25% 20% 25%;
+}
+
+button {
+    width: 50vw;
+    padding: 10px;
+    margin: 10px 0 10px 0;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    font-weight: 700;
+    border: 3px solid white;
+}
+
+button:hover{
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px black;
+}
+
+button:active{
+    background-color: #88b257;
+}
+
+.logo_albev{
+    width: 100%;
+}
+
+img {
+    margin: 0 25% 0 25%;
+}
