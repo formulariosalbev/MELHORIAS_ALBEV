@@ -58,7 +58,7 @@ img {
     zoom: 0.5;
 }
 
-#video_monitoramento {
+.video_monitoramento {
     margin: 20px 25% 20px 25%;
     border: 5px solid white;
 }
